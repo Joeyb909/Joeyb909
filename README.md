@@ -1,4 +1,4 @@
--👋 Hi, I’m Joseph Kwame Buatsie Amo, I'm currently studying Computer Science Engeering in Lovely Proffesional University.
+-👋 Hi, I’m Joseph Kwame Buatsie Amo, I'm currently studying Computer Science Engeering in Lovely Profesional University.
 -I'm passionate about technology, coding and building projects.
 - 👀 I’m interested in football and also video gaming. 
 - 🌱 I’m currently learning Java Script, Python, Html in my first semester. 
